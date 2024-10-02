@@ -27,10 +27,12 @@ If you has a NODE >= 20 installed on your desktop and Typescript latest version,
 **1 - Clone this repo:**
 ```
 git clone git@github.com:upALX/U-commerce.git
+
 ```
-**2 - install all dependencies
+**2 - install all dependencies**
 ```
 pnpm i
+
 ```
 
 **3 - Run the webapp:** (use the pack that you like, i use pnpm)
