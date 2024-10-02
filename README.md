@@ -1,54 +1,36 @@
-# U-commerce
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-**Overview**
-A simple e-commerce to practice and learn server actions
+## Getting Started
 
-🛠️*This project is under development*🛠️
+First, run the development server:
 
-![giphy](https://github.com/upALX/All-Assets/blob/main/construction-little-girl.webp)
-
----
-
-## Tech stack
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![shadcnui](https://img.shields.io/badge/-Shadcn/ui-05122A?style=flat&logo=shadcnui)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
-![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=Next.js)&nbsp;
-
-## How to use 🫁
-
-**requirements:**
-  - Node >= 20
-  - Typescript@latest
-
-If you has a NODE >= 20 installed on your desktop and Typescript latest version, follow this:
-
-**1 - Clone this repo:**
-```
-git clone git@github.com:upALX/U-commerce.git
-
-```
-**2 - install all dependencies**
-```
-pnpm i
-
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
-**3 - Run the webapp:** (use the pack that you like, i use pnpm)
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-```
-pnpm run dev
-```
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## Make your mark :triangular_flag_on_post:   
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-**If you have any problems with this app or have an idea that contributes, open a [issue](https://github.com/upALX/U-commerce/issues), [pull request](https://github.com/upALX/U-commerce/pulls) or find me on [Linkedin](https://www.linkedin.com/in/alxinc/). Don't forget to give the project a star 🌟 :D**
+## Learn More
 
-## License :unlock:
+To learn more about Next.js, take a look at the following resources:
 
-This project is under the [MIT license](https://github.com/upALX/U-commerce/blob/main/LICENSE).
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
----
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-**Developed with 💜 by ME**
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
